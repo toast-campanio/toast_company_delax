@@ -69,6 +69,7 @@ transform:translateY(-50%);
 .jumbotron{
   padding: 1rem;
   border-radius: 0;
+  height:15rem;
 }
 .padding {
   padding-bottom: 2rem;
