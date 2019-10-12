@@ -69,7 +69,6 @@ transform:translateY(-50%);
 .jumbotron{
   padding: 1rem;
   border-radius: 0;
-  height:15rem;
 }
 .padding {
   padding-bottom: 2rem;
@@ -214,6 +213,9 @@ hr.light-100 {
   .social a{
     font-size: 2em;
     padding: .7rem;
+  }
+  .jumbotron p{
+    font-size: 80%;
   }
 }
 
