@@ -214,8 +214,8 @@ hr.light-100 {
     font-size: 2em;
     padding: .7rem;
   }
-  .jumbotron p{
-    font-size: 80%;
+  .jumbotron{
+    display:none;
   }
 }
 
